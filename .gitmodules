@@ -1,0 +1,3 @@
+[submodule "deps/lmr"]
+	path = deps/lmr
+	url = ../lmr.git
